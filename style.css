@@ -1,0 +1,73 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital@1&display=swap');
+
+ 
+
+  @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+ 
+
+  @import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&display=swap');
+
+ 
+
+  @import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+body{
+
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+
+ 
+
+}
+
+#container{
+
+    background: linear-gradient(180.3deg, rgb(221, 221, 221) 5.5%, rgb(110, 136, 161) 90.2%);
+
+    text-align: center;
+
+    border-style: inset ;
+
+    border-radius: 30px;
+
+    margin-top: 250px;
+
+    margin-left: 400px;
+
+    margin-right: 400px;
+
+    font-size: 20px;
+
+transition: 0,20s;
+
+ 
+
+}
+
+#container:hover{
+
+    color: whitesmoke;
+
+    font-family: 'Sedgwick Ave Display', cursive;
+
+   color: black;
+
+   font-size: 25px;
+
+}
+
+ 
